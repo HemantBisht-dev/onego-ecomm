@@ -1,0 +1,729 @@
+{
+  "maincategory": [
+    {
+      "id": "4483",
+      "name": "Kids"
+    },
+    {
+      "id": "7a92",
+      "name": "Men"
+    },
+    {
+      "id": "7c9c",
+      "name": "Women"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "da41",
+      "name": "jeans"
+    },
+    {
+      "id": "9442",
+      "name": "Tshirt"
+    },
+    {
+      "id": "6843",
+      "name": "Jacket"
+    },
+    {
+      "id": "894f",
+      "name": "Swimwear"
+    },
+    {
+      "id": "1265",
+      "name": "Shoes"
+    },
+    {
+      "id": "e41e",
+      "name": "Coat"
+    },
+    {
+      "id": "0f2b",
+      "name": "Shorts"
+    },
+    {
+      "id": "aae8",
+      "name": "Shirts"
+    },
+    {
+      "id": "5c3a",
+      "name": "Bags"
+    },
+    {
+      "id": "75e3",
+      "name": "Dresses"
+    },
+    {
+      "id": "be51",
+      "name": "Suits"
+    },
+    {
+      "id": "5549",
+      "name": "Accessories"
+    },
+    {
+      "id": "ca7c",
+      "name": "Pants"
+    }
+  ],
+  "brand": [
+    {
+      "id": "ea64",
+      "name": "nike",
+      "pic": "nike.jpeg"
+    },
+    {
+      "id": "c388",
+      "name": "puma",
+      "pic": "puma.jpeg"
+    },
+    {
+      "id": "0dc5",
+      "name": "Tommy Hilfigure",
+      "pic": "tommy hilfigure.jpeg"
+    },
+    {
+      "id": "a1c4",
+      "name": "Adidas",
+      "pic": "adidas.jpeg"
+    },
+    {
+      "id": "3e65",
+      "name": "Zara",
+      "pic": "zara.jpeg"
+    },
+    {
+      "id": "902b",
+      "name": "Speedo",
+      "pic": "speedo.jpeg"
+    },
+    {
+      "id": "dc2b",
+      "name": "Columbia",
+      "pic": "columbia.jpeg"
+    },
+    {
+      "id": "a60d",
+      "name": "merrell",
+      "pic": "merrell.jpeg"
+    },
+    {
+      "id": "2d8f",
+      "name": "Ralph Lauren",
+      "pic": "ralph lauren.jpeg"
+    },
+    {
+      "id": "eac4",
+      "name": "Jansport",
+      "pic": "jansport.jpeg"
+    },
+    {
+      "id": "6afa",
+      "name": "Hugo Boss",
+      "pic": "hugo boss.jpeg"
+    },
+    {
+      "id": "d6c8",
+      "name": "Ray-Ban",
+      "pic": "RayBan.jpeg"
+    },
+    {
+      "id": "72b6",
+      "name": "fossil",
+      "pic": "fossil.jpeg"
+    }
+  ],
+  "product": [
+    {
+      "id": "0e42",
+      "name": "Toddler Boys Warm Bubble Puffer Jacket black",
+      "maincategory": "Kids",
+      "subcategory": "Jacket",
+      "brand": "nike",
+      "baseprice": 2500,
+      "discount": 10,
+      "finalprice": 2250,
+      "color": "black",
+      "size": "S",
+      "stock": true,
+      "description": "getInputData",
+      "quantity": 15,
+      "pic": [
+        "Toddler Boys Warm Bubble Puffer Jacket black.jpeg"
+      ]
+    },
+    {
+      "id": "0052",
+      "name": "Toddler Boys Warm Bubble Puffer Jacket black",
+      "maincategory": "Kids",
+      "subcategory": "Jacket",
+      "brand": "nike",
+      "baseprice": 2500,
+      "discount": 10,
+      "finalprice": 2250,
+      "color": "grey",
+      "size": "S",
+      "stock": true,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur in ullam iste officiis ",
+      "quantity": 20,
+      "pic": [
+        "Toddler Boys Warm Bubble Puffer Jacket grey.jpeg",
+        "Toddler Boys Warm Bubble Puffer Jacket skyBlue.jpeg"
+      ]
+    },
+    {
+      "id": "1a01",
+      "name": "Men's Running Shoes black",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "nike",
+      "baseprice": 5000,
+      "discount": 10,
+      "finalprice": 4500,
+      "color": "black",
+      "size": "10",
+      "stock": true,
+      "description": "Lightweight and durable running shoes",
+      "quantity": 24,
+      "pic": [
+        "Men's Running Shoes black.jpeg"
+      ]
+    },
+    {
+      "id": "1a02",
+      "name": "Women's Yoga Pants blue",
+      "maincategory": "Women",
+      "subcategory": "Pants",
+      "brand": "adidas",
+      "baseprice": 3000,
+      "discount": 15,
+      "finalprice": 2550,
+      "color": "blue",
+      "size": "M",
+      "stock": true,
+      "description": "Comfortable and stretchy yoga pants",
+      "quantity": 30,
+      "pic": [
+        "Women's Yoga Pants blue.jpeg",
+        "Women's Yoga Pants blue1.jpeg"
+      ]
+    },
+    {
+      "id": "1a03",
+      "name": "Kids Winter Boots brown",
+      "maincategory": "Kids",
+      "subcategory": "Shoes",
+      "brand": "columbia",
+      "baseprice": 3500,
+      "discount": 20,
+      "finalprice": 2800,
+      "color": "brown",
+      "size": "4",
+      "stock": true,
+      "description": "Warm and waterproof winter boots",
+      "quantity": 15,
+      "pic": [
+        "Kids Winter Boots brown.jpeg",
+        "Kids Winter Boots brown1.jpeg",
+        "Kids Winter Boots brown2.jpeg",
+        "Kids Winter Boots brown3.jpeg",
+        "Kids Winter Boots brown4.jpeg"
+      ]
+    },
+    {
+      "id": "1a04",
+      "name": "Men's Leather Wallet black",
+      "maincategory": "Men",
+      "subcategory": "Accessories",
+      "brand": "fossil",
+      "baseprice": 2000,
+      "discount": 5,
+      "finalprice": 1900,
+      "color": "black",
+      "size": "One Size",
+      "stock": true,
+      "description": "Premium leather wallet",
+      "quantity": 49,
+      "pic": [
+        "Men's Leather Wallet black.jpeg",
+        "Men's Leather Wallet black1.jpeg"
+      ]
+    },
+    {
+      "id": "1a05",
+      "name": "Women's Sunglasses brown",
+      "maincategory": "Women",
+      "subcategory": "Accessories",
+      "brand": "rayban",
+      "baseprice": 4500,
+      "discount": 10,
+      "finalprice": 4050,
+      "color": "brown",
+      "size": "One Size",
+      "stock": true,
+      "description": "Stylish UV protection sunglasses",
+      "quantity": 20,
+      "pic": [
+        "Women's Sunglasses brown.jpeg",
+        "Women's Sunglasses brown1.jpeg",
+        "Women's Sunglasses brown2.jpeg"
+      ]
+    },
+    {
+      "id": "1a06",
+      "name": "Kids Graphic T-Shirt red",
+      "maincategory": "Kids",
+      "subcategory": "T-Shirt",
+      "brand": "nike",
+      "baseprice": 1200,
+      "discount": 8,
+      "finalprice": 1104,
+      "color": "red",
+      "size": "S",
+      "stock": true,
+      "description": "Cool and comfortable graphic T-shirt",
+      "quantity": 40,
+      "pic": [
+        "Kids Graphic T-Shirt red.jpeg",
+        "Kids Graphic T-Shirt red1.jpeg",
+        "Kids Graphic T-Shirt red2.jpeg",
+        "Kids Graphic T-Shirt red3.jpeg"
+      ]
+    },
+    {
+      "id": "1a07",
+      "name": "Men's Formal Suit gray",
+      "maincategory": "Men",
+      "subcategory": "Suits",
+      "brand": "hugo boss",
+      "baseprice": 15000,
+      "discount": 15,
+      "finalprice": 12750,
+      "color": "gray",
+      "size": "L",
+      "stock": true,
+      "description": "Elegant and stylish formal suit",
+      "quantity": 8,
+      "pic": [
+        "Men's Formal Suit gray.jpeg"
+      ]
+    },
+    {
+      "id": "1a08",
+      "name": "Women's Summer Dress yellow",
+      "maincategory": "Women",
+      "subcategory": "Dresses",
+      "brand": "zara",
+      "baseprice": 4000,
+      "discount": 10,
+      "finalprice": 3600,
+      "color": "yellow",
+      "size": "M",
+      "stock": true,
+      "description": "Light and breezy summer dress",
+      "quantity": 19,
+      "pic": [
+        "Women's Summer Dress yellow.jpeg",
+        "Women's Summer Dress yellow2.jpeg"
+      ]
+    },
+    {
+      "id": "1a09",
+      "name": "Kids Backpack blue",
+      "maincategory": "Kids",
+      "subcategory": "Bags",
+      "brand": "jansport",
+      "baseprice": 2500,
+      "discount": 12,
+      "finalprice": 2200,
+      "color": "blue",
+      "size": "One Size",
+      "stock": true,
+      "description": "Durable and spacious backpack",
+      "quantity": 29,
+      "pic": [
+        "Kids Backpack blue.jpeg",
+        "Kids Backpack blue1.jpeg",
+        "Kids Backpack blue2.jpeg",
+        "Kids Backpack blue3.jpeg",
+        "Kids Backpack blue4.jpeg"
+      ]
+    },
+    {
+      "id": "1a10",
+      "name": "Men's Casual Shirt white",
+      "maincategory": "Men",
+      "subcategory": "Shirts",
+      "brand": "ralph lauren",
+      "baseprice": 3000,
+      "discount": 5,
+      "finalprice": 2850,
+      "color": "white",
+      "size": "M",
+      "stock": true,
+      "description": "Comfortable and stylish casual shirt",
+      "quantity": 20,
+      "pic": [
+        "Men's Casual Shirt white.jpeg",
+        "Men's Casual Shirt white1.jpeg",
+        "Men's Casual Shirt white2.jpeg"
+      ]
+    },
+    {
+      "id": "1a11",
+      "name": "Women's Running Shorts pink",
+      "maincategory": "Women",
+      "subcategory": "Shorts",
+      "brand": "adidas",
+      "baseprice": 2000,
+      "discount": 10,
+      "finalprice": 1800,
+      "color": "pink",
+      "size": "S",
+      "stock": true,
+      "description": "Lightweight and breathable running shorts",
+      "quantity": 39,
+      "pic": [
+        "Women's Running Shorts pink.jpeg",
+        "Women's Running Shorts pink1.jpeg"
+      ]
+    },
+    {
+      "id": "1a12",
+      "name": "Kids Swim Trunks green",
+      "maincategory": "Kids",
+      "subcategory": "Swimwear",
+      "brand": "speedo",
+      "baseprice": 1500,
+      "discount": 5,
+      "finalprice": 1425,
+      "color": "green",
+      "size": "M",
+      "stock": true,
+      "description": "Quick-dry swim trunks",
+      "quantity": 18,
+      "pic": [
+        "Kids Swim Trunks green.jpeg",
+        "Kids Swim Trunks green1.jpeg"
+      ]
+    },
+    {
+      "id": "1a13",
+      "name": "Men's Hiking Boots brown",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "merrell",
+      "baseprice": 6000,
+      "discount": 20,
+      "finalprice": 4800,
+      "color": "brown",
+      "size": "11",
+      "stock": true,
+      "description": "Sturdy and comfortable hiking boots",
+      "quantity": 12,
+      "pic": [
+        "Men's Hiking Boots brown.jpeg",
+        "Men's Hiking Boots brown1.jpeg"
+      ]
+    },
+    {
+      "id": "1a14",
+      "name": "Women's Winter Coat black",
+      "maincategory": "Women",
+      "subcategory": "Coat",
+      "brand": "columbia",
+      "baseprice": 8000,
+      "discount": 25,
+      "finalprice": 6000,
+      "color": "black",
+      "size": "L",
+      "stock": false,
+      "description": "Warm and stylish winter coat",
+      "quantity": 0,
+      "pic": [
+        "Women's Winter Coat black.jpeg",
+        "Women's Winter Coat black1.jpeg"
+      ]
+    },
+    {
+      "id": "1a15",
+      "name": "Kids Sneakers white",
+      "maincategory": "Kids",
+      "subcategory": "Shoes",
+      "brand": "nike",
+      "baseprice": 3000,
+      "discount": 10,
+      "finalprice": 2700,
+      "color": "white",
+      "size": "3",
+      "stock": true,
+      "description": "Comfortable and trendy sneakers",
+      "quantity": 24,
+      "pic": [
+        "Kids Sneakers white.jpeg"
+      ]
+    },
+    {
+      "id": "1a16",
+      "name": "Men's Swim Shorts navy",
+      "maincategory": "Men",
+      "subcategory": "Swimwear",
+      "brand": "fossil",
+      "baseprice": 2500,
+      "discount": 10,
+      "finalprice": 2250,
+      "color": "navy",
+      "size": "M",
+      "stock": true,
+      "description": "Quick-dry and comfortable swim shorts",
+      "quantity": 20,
+      "pic": [
+        "Men's Swim Shorts navy.jpeg"
+      ]
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "a123",
+      "name": "Anita Sharma",
+      "pic": "Women's Summer Dress yellow2.jpeg",
+      "star": 5,
+      "message": "Fantastic experience! The product exceeded my expectations and arrived quickly."
+    },
+    {
+      "id": "b456",
+      "name": "Vikram Patel",
+      "pic": "testimonial-4.jpg",
+      "star": 4,
+      "message": "Very pleased with my purchase. Great quality and timely delivery."
+    },
+    {
+      "id": "c789",
+      "name": "Priya Singh",
+      "pic": "testimonial-3.jpg",
+      "star": 4,
+      "message": "Good product and service. Will definitely shop here again."
+    },
+    {
+      "id": "d012",
+      "name": "Rohit Verma",
+      "pic": "testimonial-2.jpg",
+      "star": 5,
+      "message": "Excellent shopping experience! The item was exactly as described and delivered on time."
+    },
+    {
+      "id": "e345",
+      "name": "Suman Gupta",
+      "pic": "testimonial-1.jpg",
+      "star": 4,
+      "message": "Very happy with the purchase. The product quality is great and it arrived promptly."
+    },
+    {
+      "id": "f678",
+      "name": "Amit Kumar",
+      "pic": "team-2.jpg",
+      "star": 4,
+      "message": "Good quality and fast shipping. Will recommend to others."
+    },
+    {
+      "id": "g901",
+      "name": "Neha Pandey",
+      "pic": "team-1.jpg",
+      "star": 5,
+      "message": "Amazing product! Great value for money and quick delivery."
+    },
+    {
+      "id": "h234",
+      "name": "Rajesh Mehta",
+      "pic": "team-3.jpg",
+      "star": 5,
+      "message": "Outstanding service! The product arrived in perfect condition and exactly as described."
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "eb3e",
+      "email": "Drake123@gmail.com"
+    },
+    {
+      "id": "65a2",
+      "email": "jane123@gmail.com"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "1c32",
+      "name": "Drake",
+      "phone": "8569456321",
+      "email": "Drake123@gmail.com",
+      "subject": "Test Message",
+      "message": "sksjdioelpkso sjsieoks jsolsk kslsdpd lskdo dejfia",
+      "active": true,
+      "date": "2024-07-01T06:25:42.167Z"
+    },
+    {
+      "id": "9388",
+      "name": "jane",
+      "phone": "8654235988",
+      "email": "jane123@gmail.com",
+      "subject": "hola amigo",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum iure ipsam doloremque in nulla, consequatur, aut, quos illo veniam deleniti cumque maiores fuga placeat vitae! Deserunt, magni ducimus. Adipisci, impedit.\nReiciendis laboriosam illo optio tenetur illum. Culpa vero aliquam quam nam repellendus nobis! Aperiam, iusto. Beatae nam hic dignissimos molestias obcaecati, magnam sequi nesciunt quo voluptatibus odit sunt quae esse.",
+      "active": true,
+      "date": "2024-07-03T05:49:20.145Z"
+    },
+    {
+      "id": "fe6a",
+      "name": "black",
+      "phone": "8756425368",
+      "email": "black123@gmail.com",
+      "subject": "Test Message",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum iure ipsam doloremque in nulla, consequatur, aut, quos illo veniam deleniti cumque maiores fuga placeat vitae! Deserunt, magni ducimus. Adipisci, impedit.\nReiciendis laboriosam illo optio tenetur illum. Culpa vero aliquam quam nam repellendus nobis! Aperiam, iusto. Beatae nam hic dignissimos molestias obcaecati, magnam sequi nesciunt quo voluptatibus odit sunt quae esse.",
+      "active": false,
+      "date": "2024-07-03T05:51:26.537Z"
+    },
+    {
+      "id": "4577",
+      "name": "nero",
+      "phone": "8456321989",
+      "email": "nero123@gmail.com",
+      "subject": "Test Message",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum iure ipsam doloremque in nulla, consequatur, aut, quos illo veniam deleniti cumque maiores fuga placeat vitae! Deserunt, magni ducimus. Adipisci, impedit.\nReiciendis laboriosam illo optio tenetur illum. Culpa vero aliquam quam nam repellendus nobis! Aperiam, iusto. Beatae nam hic dignissimos molestias obcaecati, magnam sequi nesciunt quo voluptatibus odit sunt quae esse.",
+      "active": true,
+      "date": "2024-07-03T05:51:52.077Z"
+    },
+    {
+      "id": "2778",
+      "name": "mike",
+      "phone": "8965423516",
+      "email": "mike123@gmail.com",
+      "subject": "Test Message",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum iure ipsam doloremque in nulla, consequatur, aut, quos illo veniam deleniti cumque maiores fuga placeat vitae! Deserunt, magni ducimus. Adipisci, impedit.\nReiciendis laboriosam illo optio tenetur illum. Culpa vero aliquam quam nam repellendus nobis! Aperiam, iusto. Beatae nam hic dignissimos molestias obcaecati, magnam sequi nesciunt quo voluptatibus odit sunt quae esse.",
+      "active": true,
+      "date": "2024-07-03T05:52:48.789Z"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "f453",
+      "userid": "3ab1",
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done",
+      "paymentmode": "COD",
+      "subtotal": 3600,
+      "shipping": 0,
+      "total": 3600,
+      "date": "2024-07-08T07:44:12.889Z",
+      "products": [
+        {
+          "id": "d651",
+          "productid": "1a08",
+          "userid": "3ab1",
+          "name": "Women's Summer Dress yellow",
+          "brand": "zara",
+          "color": "yellow",
+          "size": "M",
+          "price": 3600,
+          "qty": 1,
+          "stockQuantity": 20,
+          "total": 3600,
+          "pic": "Women's Summer Dress yellow.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "b45b",
+      "userid": "3ab1",
+      "orderstatus": "Order is Packed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 4800,
+      "shipping": 0,
+      "total": 4800,
+      "date": "2024-07-08T07:49:40.489Z",
+      "products": [
+        {
+          "id": "a868",
+          "productid": "1a13",
+          "userid": "3ab1",
+          "name": "Men's Hiking Boots brown",
+          "brand": "merrell",
+          "color": "brown",
+          "size": "11",
+          "price": 4800,
+          "qty": 1,
+          "stockQuantity": 13,
+          "total": 4800,
+          "pic": "Men's Hiking Boots brown.jpeg"
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "8063",
+      "productid": "1a16",
+      "userid": "78cb",
+      "name": "Men's Swim Shorts navy",
+      "brand": "fossil",
+      "color": "navy",
+      "size": "M",
+      "price": 2250,
+      "qty": 2,
+      "stockQuantity": 20,
+      "total": 4500,
+      "pic": "Men's Swim Shorts navy.jpeg"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "43f4",
+      "productid": "1a14",
+      "userid": "3c6b",
+      "name": "Women's Winter Coat black",
+      "brand": "columbia",
+      "color": "black",
+      "size": "L",
+      "price": 6000,
+      "pic": "Women's Winter Coat black.jpeg"
+    }
+  ],
+  "user": [
+    {
+      "id": "56d4",
+      "name": "jane",
+      "username": "jane10",
+      "email": "jane123@gmail.com",
+      "phone": "9856325698",
+      "password": "Jane@123",
+      "role": "Buyer"
+    },
+    {
+      "id": "78cb",
+      "name": "Hemant ",
+      "username": "hemant22",
+      "email": "hemant123@gmail.com",
+      "phone": "9856325469",
+      "password": "Hemant@123",
+      "role": "Admin",
+      "pic": "team-3.jpg",
+      "address": "Noida sector-18",
+      "city": "Noida",
+      "state": "Uttar Paradesh",
+      "pin": "154689"
+    },
+    {
+      "id": "3ab1",
+      "name": "Drake",
+      "username": "drake123",
+      "email": "drake123@gmail.com",
+      "phone": "9856325698",
+      "password": "Drake@123",
+      "role": "Buyer",
+      "address": "24 street, bollyvard",
+      "city": "glasgow",
+      "state": "london",
+      "pin": "215468"
+    }
+  ]
+}
