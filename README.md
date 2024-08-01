@@ -1,6 +1,6 @@
 # React + Vite
 
-eCommerce Web App
+OneGO eCommerce Web App
 
 Overview :
 The eCommerce Web App is a full-featured online shopping platform built with React. It provides users with a seamless shopping experience, allowing them to browse products, add items to their cart, and make purchases. The application also includes an admin dashboard for managing products, orders, and user accounts.
